@@ -28,7 +28,7 @@ I suspected that the connections that I was hoping to see in the log were probab
 Two days later, following the instructions from Tom, I used the command below to convert all spaces in the log to tabs and saved it as a `.tsv` file, which I later imported to a Google spreadsheet.
 
 ```bash
-sudo cat /var/log/ufw.log | sed \-e 's/\\s/\\t/g' > \~/ufw-log.tsv
+sudo cat /var/log/ufw.log | sed -e 's/\s/\t/g' > ~/ufw-log.tsv
 ```
 
 Since all lines of the log were not in the exact same format, I had to do a little bit of cleanup before all columns were properly lined up so as to be ready for filtering and sorting.
