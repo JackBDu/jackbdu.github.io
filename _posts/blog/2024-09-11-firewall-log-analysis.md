@@ -47,4 +47,10 @@ The 3rd IP address, according to ipinfo.io, is located in Amsterdam of North Hol
 
 ![A screenshot of browser window of IPinfo showing information of the IP address 79.110.62.107](/media{{ page.url }}screenshot-browser-ipinfo-79-110-62-107.png)
 
-I was partially shocked and partially not surprised to see so many hosts attempting to connect to my virtual server in a relatively period of time. This finding is bringing up so many questions: Who is behind Emanuel Hosting Ltd and why are there so many attempts from them? Who are making all these other attempts to connect to my virtual server? I wanted to keep digging to find out more but I'm also hoping the Understanding Networks course will help me slowly uncover these mysteries.
+Out of curiosity, I looked up two more IP addresses from the blocked list (`83.222.190.106` and `139.99.17.118`). They are from Pernik and Singapore respectively.
+
+![A screenshot of browser window of IPinfo showing information of the IP address 83.222.190.106](/media{{ page.url }}screenshot-browser-ipinfo-83-222-190-106.png)
+
+![A screenshot of browser window of IPinfo showing information of the IP address 139.99.17.118](/media{{ page.url }}screenshot-browser-ipinfo-139-99-17-118.png)
+
+I was partially shocked and partially not so surprised to see so many hosts attempting to connect to my virtual server in a relatively period of time. This finding is bringing up so many questions: Who is behind Emanuel Hosting Ltd and why are there so many attempts from them? Who else are making all these other attempts to connect to my virtual server? I wanted to keep digging to find out more but I'm also hoping the Understanding Networks course will help me slowly uncover these mysteries.
