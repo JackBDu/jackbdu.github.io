@@ -19,12 +19,12 @@ The [first video](https://www.instagram.com/p/CmIBzGdB0yz/?img_index=4) I select
   <thead>
   <tr>
   <th>
-    <video width="100%" preload="auto" autoplay loop>
+    <video width="100%" preload="auto" autoplay loop muted>
       <source src="/media/{{ page.url }}20221213-symmetrical-long-scribble-filter-single-color-webcam-mirror-16x16-lifting-hair.mp4" type='video/mp4'>
     </video>
   </th>
   <th>
-    <video width="100%" preload="auto" autoplay loop>
+    <video width="100%" preload="auto" autoplay loop muted>
       <source src="/media/{{ page.url }}20240929-self-portrait-1250x1250@15fps_720p.mp4" type='video/mp4'>
     </video>
   </th>
@@ -48,12 +48,12 @@ The [second video](https://www.instagram.com/p/CpD_0hON3Z7/) I selected was a si
   <thead>
   <tr>
   <th>
-    <video width="100%" preload="auto" autoplay loop>
+    <video width="100%" preload="auto" autoplay loop muted>
       <source src="/media/{{ page.url }}20230224-orthographic-rotation-circle-to-square-1024x1024@60fps.mp4" type='video/mp4'>
     </video>
   </th>
   <th>
-    <video width="100%" preload="auto" autoplay loop>
+    <video width="100%" preload="auto" autoplay loop muted>
       <source src="/media/{{ page.url }}20240921-circle-to-square-1250x1250@30fps_720p.mp4" type='video/mp4'>
     </video>
   </th>
@@ -83,12 +83,12 @@ The [third and final video](https://www.instagram.com/p/C_VjNVjxZ4u/) I chose wa
   <thead>
   <tr>
   <th>
-    <video width="100%" preload="auto" autoplay loop>
+    <video width="100%" preload="auto" autoplay loop muted>
       <source src="/media/{{ page.url }}20240831-daily-experiment-glsl-animated-colorful-bubbles-purple-and-yellow-1080p@60fps.mp4" type='video/mp4'>
     </video>
   </th>
   <th>
-    <video width="100%" preload="auto" autoplay loop>
+    <video width="100%" preload="auto" autoplay loop muted>
       <source src="/media/{{ page.url }}20240929-fluid-magenta-yellow-green-1080p@30fps_720p.mp4" type='video/mp4'>
     </video>
   </th>
@@ -109,7 +109,7 @@ The [third and final video](https://www.instagram.com/p/C_VjNVjxZ4u/) I chose wa
   <thead>
   <tr>
   <th>
-    <video width="100%" preload="auto" autoplay loop>
+    <video width="100%" preload="auto" autoplay loop muted>
       <source src="/media/{{ page.url }}20240929-fluid-red-yellow-blue-merged-in-post-with-manual-adjustments-1080p@30fps_720p.mp4" type='video/mp4'>
     </video>
   </th>
