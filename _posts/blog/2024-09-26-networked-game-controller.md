@@ -80,3 +80,5 @@ I had to also revise the code so that pressing all four buttons initiates the co
 </table>
 
 When we played the game again in class with our physical controllers, the score improved significantly! We managed to block the ball to one side of the wall and keep scoring by alternating between two players :)
+
+| ![](/media{{ page.url }}IMG_6620.jpg) |
