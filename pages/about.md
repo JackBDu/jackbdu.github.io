@@ -28,10 +28,6 @@ My work often deconstructs visuals into pixelated fragments, an aesthetic rooted
 
 ## Selected Exhibitions
 
-2024 – Present \| “Mandarinizer” _Fun with Hanzi_, i-got-one.org
-
-2018 – Present \| “Mandarinizer” NYU Abu Dhabi, Abu Dhabi, UAE
-
 2024 \| “Daily Sketches (2022)” _C3 Dev Festival_, Amsterdam, Netherlands
 
 2024 \| ”Blob Mirror” _Interactive Media Art Show_, Brooklyn, NY, USA
