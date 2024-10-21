@@ -4,18 +4,140 @@ title: About
 permalink: /about/
 ---
 
-I am an artist and researcher whose work explores the playful creative possibilities of computation. My ongoing project, [_Daily Sketches_]({{ site.baseurl }}/works/daily-sketches/), comprises computational sketches I create daily, where I seek to uncover meaning in the mundane, discover surprises in simplicity, and find poetry within algorithms. The 2022 compilation from this project was published in the proceedings of [_the 16th International Symposium on Visual Information Communication and Interaction (VINCI ‘23)_](https://doi.org/10.1145/3615522.3615571).
+Jack B. Du is an artist and researcher whose work explores the poetic possibilities of code in both analog and digital forms. He holds a Bachelor of Science degree from _New York University Shanghai_ with a double major in Interactive Media Arts and Computer Science, and a minor in Studio Art. He is currently pursuing a Master of Professional Studies degree from the Interactive Telecommunications Program at _New York University, Tisch School of the Arts_. Through his ongoing [daily coding experiments](https://jackbdu.com/works/daily-sketches/), Jack seeks meaning from the mundane, composes poetry with algorithms, and tells stories using computer programs. A [compilation of his experiments in 2022](https://doi.org/10.1145/3615522.3615571) was published in the proceedings of _the 16th International Symposium on Visual Information Communication and Interaction (VINCI ‘23)_.
 
-My work has been exhibited at venues like _Shenzhen Design Week_, _Shanghai Science Expo_, and _Shanghai Education Expo_ in China, as well as _the Sikka Art and Design Festival_ in the UAE, the _React Summit_ and _JSNation Conferences_ in the Netherlands, the _ITP/IMA Spring_ and _Winter Shows_ in the US, among others. I have conducted workshops globally at _DigitalFUTURES_ and _Dubai Design Week_, and [delivered a feature presentation at _Zaojiu_](https://www.bilibili.com/video/av27211915/) in China.
+Jack’s work has been showcased at exhibitions and venues worldwide, such as _Shenzhen Design Week_ (2018) in China, the _Sikka Art and Design Festival_ (2022) in the UAE, the _C3 Dev Festival_ (2024) in the Netherlands, and the _Interactive Media Art Shows_ (2023 & 2024\) in the US. He has conducted workshops globally at _DigitalFUTURES_ (2023), and delivered a featured [presentation](https://www.bilibili.com/video/av27211915/) at _Zaojiu_ (2018) in China.
 
-Currently, I serve as an adjunct professor at [_NYU Tisch_](https://tisch.nyu.edu), teaching programming and machine learning as mediums for creative expression.
+Currently, Jack serves as an adjunct professor at _NYU Tisch_, teaching programming and machine learning as mediums for creative expression.
 
-If you would like to know more about me, check out my [CV]({{ site.baseurl }}/cv/), or drop me a line at [hi@jackbdu.com](mailto:hi@jackbdu.com).
+## Contact
+
+Follow me on [Instagram](https://instagram.com/jackbdu) to see my daily coding experiments.
+
+Subscribe to [My Coding Show](https://www.youtube.com/channel/UCUP34ETx7nvIbd4ypkR02hg) on YouTube to learn how I code.
+
+Email me via [hi@jackbdu.com](mailto:hi@jackbdu.com) for collaboration or commission inquires.
 
 ## Artist Statement
 
-In a world where generative artificial intelligences strive for the highest degree of precision and realism, my artistic practice deliberately accentuates the flaws of our visual perception, embracing the beauty of ambiguity and unexpectedness.
+I speak the language of computers. I encode my stories, my emotions, my curiosities, and my experiences into images, animations, and interactive installations through the relentless act of daily coding. My works are never truly finished. I am constantly on a journey of exploration, experimentation, and reiteration.
 
-Inspired by Chuck Close’s mosaic-style paintings and Danny Rozin’s pixel-based mechanical mirrors, my artwork often deconstructs visuals into pixelated fragments—whether it’s through [thousands of Chinese characters in a virtual mirror]({{ site.baseurl }}/works/mandarinizer/) or [the intricate scribbles drawn by a mobile robot]({{ site.baseurl }}/works/minus-e/).
+Coding as an art practice is much like painting. Code is a sequence of characters that encapsulate a creative process—conceived, revised, altered, and continually revisited. While the outcome of the code is often what is seen, the code itself is like layers and layers of paints underneath a painting, easily forgotten. By sharing the meticulous process of crafting code, I make myself vulnerable, allowing others to peek into my inner world.
 
-Trained in computer science, I speak in the language of computer programming. I use code not much differently from how a painter uses a paintbrush, layering lines, shapes, and colors to form images. In my interactive works, I invite viewers to engage directly, to become a part of the art itself.
+My work often deconstructs visuals into pixelated fragments, an aesthetic rooted in nostalgia for retro technology. In a capitalistic society that prizes high precision, my blurry and sometimes abstract pieces celebrate the poetic beauty of human imperfection and computational glitches, while also leaving space for others to decode meaning through the lens of their own lived experiences.
+
+## Selected Exhibitions
+
+2024 – Present \| “Mandarinizer” _Fun with Hanzi_, i-got-one.org
+
+2018 – Present \| “Mandarinizer” NYU Abu Dhabi, Abu Dhabi, UAE
+
+2024 \| “Daily Sketches (2022)” _C3 Dev Festival_, Amsterdam, Netherlands
+
+2024 \| ”Blob Mirror” _Interactive Media Art Show_, Brooklyn, NY, USA
+
+2024 \| “Mandarinizer” Pudong Library, Shanghai, China
+
+2023 – 2024 \| “Daily Sketches (2022)” _React Summit Conference_, Amsterdam, Netherlands
+
+2023 – 2024 \| “Daily Sketches (2022)” _JSNation Conference_, Amsterdam, Netherlands
+
+2023 \| “Mandarinizer” _Featured Artist Exhibition_, NYU Shanghai Library, Shanghai, China
+
+2023 \| “Scribbot” _Interactive Media Art Show_, Brooklyn, NY, USA
+
+2023 \| “Daily Sketches (2022)” _International Symposium on Visual Information Communication and Interaction (VINCI 2023\)_, Guangzhou, China
+
+2022 \| “Mandarinizer” Zayed University Abu Dhabi, Abu Dhabi, UAE
+
+2022 \| “Mandarinizer” _Sikka Art and Design Festival_, Al Fahidi Historical Neighborhood, Dubai, UAE
+
+2018 \| “Mandarinizer” _Shenzhen Design Week_, Shenzhen, China
+
+2018 \| “Mandarinizer” _Shanghai Education Expo_, Shanghai Exhibition Center, Shanghai, China
+
+2017 \| “Minus E” _Finalist Exhibition_, USC-SJTU Institute of Cultural and Creative Industry, Shanghai, China
+
+2017 \| “This is Where I Live” _The Map as Art_, NYU Shanghai Gallery, Shanghai, China
+
+2017 \| “Minus E” _Shanghai Science Expo_, Shanghai Exhibition Center, Shanghai, China
+
+2017 \| “Minus E” _Undergraduate Research Symposium_, NYU Shanghai, Shanghai, China
+
+## Selected Teaching and Workshops
+
+**New York University, Tisch School of the Arts**, New York, NY, USA
+
+2024 \| IMNY-UT 224 Introduction to Machine Learning for the Arts, IMA (Undergraduate)
+
+2023 – 2024 \| IMNY-UT 101 Creative Computing, IMA (Undergraduate)
+
+2024 \| Creative Coding Workshop Series for Absolute Beginners, ITP Camp
+
+**Dongming Neighborhood Development Center**, Shanghai, China
+
+2024 \| Creative Coding Workshop for Family
+
+**DigitalFUTURES International Online Workshops**, Worldwide
+
+2023 \| [Creative Coding Workshop Series for Absolute Beginners](https://jackbdu.com/teaching/creative-coding-for-absolute-beginners/)
+
+**Sikka Art and Design Festival**, Dubai, UAE
+
+2022 – 2023 \| Creative Coding Workshop for Absolute Beginners
+
+**Dubai Design Week**, Dubai, UAE
+
+2022 \| Creative Coding Workshops for Absolute Beginners
+
+**New York University Abu Dhabi**, Abu Dhabi, UAE
+
+2022 – 2023 \| Creative Coding Workshop Series for Absolute Beginners
+
+2020 – 2022 \| Web Development Workshop Series for Absolute Beginners
+
+## Selected Talks and Presentations
+
+2023 \| Artist Talk: Daily Experiments in Creative Coding, _Maker Faire Coney Island_, Brooklyn, NY, USA
+
+2023 \| Artist Talk: Daily Experiments in Creative Coding, _NYU Shanghai_, Shanghai, China
+
+2022 \| Guest Speaker, _Ontario College of Art and Design University_ (OCAD U), Toronto, Canada
+
+2018 \| [Making Art with a Robot](https://www.bilibili.com/video/BV1Ds411E7ap/), _Zaojiu_, Shanghai, China
+
+2018 \| Artist Talk, _NYU Shanghai_, Shanghai, China
+
+2017 \| Artist Talk, _New Media Art and Cultural and Creative Industry Conference_, Shanghai, China
+
+2017 \| Artist Talk, _R/GA Shanghai_, Shanghai, China
+
+2017 \| Artist Talk, _Shanghai Library_, Shanghai, China
+
+## Selected Awards and Grants
+
+2023 – 2025 \| Tisch School of Arts Graduate Scholarship, NYU, USA
+
+2022 – 2023 \| Professional Development Fund, NYU Abu Dhabi, UAE
+
+2017 \| Interactive Media Arts Fellowship, NYU Shanghai, China
+
+2017 \| Excellence Award (Finalist), Shanghai International Digital Creation, Innovation and Entrepreneurship Competition, China
+
+2017 \| Best Technology and Visual Demonstration Award, Undergraduate Research Symposium, NYU Shanghai, China
+
+2017 \| 5th Place, International Robot Art Competition, USA
+
+2015 \| Dean’s Undergraduate Research Fund, NYU Shanghai, China
+
+## Selected Press and Publications
+
+2023 \| Jack B. Du: [Daily Sketches (2022)](https://doi.org/10.1145/3615522.3615571). _The 16th International Symposium on Visual Information Communication and Interaction_ (VINCI 2023), September 22–24, 2023, Guangzhou, China. ACM, New York, NY, USA, 2 pages. [https://doi.org/10.1145/3615522.3615571](https://doi.org/10.1145/3615522.3615571)
+
+2023 \| “[Alumni Voices: Jack B. Du ’17](https://shanghai.nyu.edu/stories/alumni-voices-jack-b-du-17)”, _NYU Shanghai People_, Apr. 21, 2023.
+
+2018 \| “[我为什么要费尽心思造出一个不完美的绘画机器人？](https://mp.weixin.qq.com/s/ZiTIpNLR9Vm13mw_fxWhGQ)” \[Why Did I Painstakingly Build an Imperfect Drawing Robot?\], _Zaojiu_, July 19, 2018.
+
+2018 \| “[机器时代即将到来｜新锐艺术家专访](https://mp.weixin.qq.com/s/4yy7EwKfEpMtOzV7RD5VsA)” \[Emerging Artist Interview: the Age of Robots is Around the Corner\], _MANA_, July 16, 2018.
+
+2018 \| Juliet Turner: “[Creative Machines](https://cdn.shanghai.nyu.edu/sites/default/files/accessible_nyush_spring2018_english.pdf)”, _NYU Shanghai Magazine_, Spring 2018.
