@@ -53,7 +53,11 @@ I would then export only the red and blue channels (out of RGB channels) as gray
 
 ![](/media{{ page.url }}browser-p5js-web-editor-banner-ads-generator-prototype-with-halftone-pattern.png)
 
-Finally, when these were printed. I absolutely love the results. In particular, I love the combination of red and yellow. They are such vibrant and bright colors that will draw all the attention. Here are some closeup photos of the final prints:
+Finally, when these were printed. I absolutely love the results.
+
+![](/media{{ page.url }}banner-ads-risograph-printing-720p@15fps.gif)
+
+In particular, I love the combination of red and yellow. They are such vibrant and bright colors that will draw all the attention. Here are some closeup photos of the final prints:
 
 | ![](/media{{ page.url }}20241021-67_03157.jpg) | ![](/media{{ page.url }}20241021-67_03165.jpg) |
 
