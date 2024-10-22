@@ -2,7 +2,7 @@
 layout: post
 title: Risograph Animations
 categories: blog
-tags: print-and-code
+tags: print-and-code analog risograph
 description:
 published: true
 ---
