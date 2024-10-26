@@ -16,7 +16,7 @@
 html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
-          text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 body {
@@ -29,7 +29,12 @@ body {
   letter-spacing: 0.5px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: $fontStack;
   color: $bodyColor;
   font-weight: 500;
@@ -79,28 +84,44 @@ p {
 
 a {
   color: $aColor;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-style: dotted;
   cursor: pointer;
-  &:hover, &:active {
+  &:hover,
+  &:active {
     color: $bodyColor;
-    text-decoration: underline;
+    text-decoration-style: solid;
   }
-  -webkit-transition: filter 0.3s ease, color 0.3s ease;
-     -moz-transition: filter 0.3s ease, color 0.3s ease;
-      -ms-transition: filter 0.3s ease, color 0.3s ease;
-       -o-transition: filter 0.3s ease, color 0.3s ease;
-          transition: filter 0.3s ease, color 0.3s ease;
+  -webkit-transition:
+    filter 0.3s ease,
+    color 0.3s ease;
+  -moz-transition:
+    filter 0.3s ease,
+    color 0.3s ease;
+  -ms-transition:
+    filter 0.3s ease,
+    color 0.3s ease;
+  -o-transition:
+    filter 0.3s ease,
+    color 0.3s ease;
+  transition:
+    filter 0.3s ease,
+    color 0.3s ease;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
-strong, b {
+strong,
+b {
   font-weight: 500;
 }
 
-img, video, iframe {
+img,
+video,
+iframe {
   max-width: 100%;
   border: 1px $borderColor solid;
   border-radius: 0.7em;
@@ -133,14 +154,15 @@ table {
 .entry {
   margin: 0.5em 0;
 
-  ul, ol {
+  ul,
+  ol {
     margin: 15px 0;
     padding-left: 30px;
     line-height: 1.5;
   }
 
-  li+li {
-    margin-top: .25em;
+  li + li {
+    margin-top: 0.25em;
   }
 
   p {
@@ -178,28 +200,27 @@ table {
   @include mobile {
     grid-template-columns: repeat(2, 1fr);
   }
-
 }
 
 .filter {
   will-change: filter;
   -webkit-transition: filter 0.3s ease;
-     -moz-transition: filter 0.3s ease;
-      -ms-transition: filter 0.3s ease;
-       -o-transition: filter 0.3s ease;
-          transition: filter 0.3s ease;
+  -moz-transition: filter 0.3s ease;
+  -ms-transition: filter 0.3s ease;
+  -o-transition: filter 0.3s ease;
+  transition: filter 0.3s ease;
   -webkit-filter: grayscale(100%) blur(5px);
-          filter: grayscale(100%) blur(5px);
+  filter: grayscale(100%) blur(5px);
 
   @include tablet {
     -webkit-filter: grayscale(0%) blur(0px);
-            filter: grayscale(0%) blur(0px);
+    filter: grayscale(0%) blur(0px);
   }
 }
 
 .filter:hover {
   -webkit-filter: grayscale(0%) blur(0px);
-          filter: grayscale(0%) blur(0px);
+  filter: grayscale(0%) blur(0px);
 }
 
 .tile {
@@ -208,7 +229,7 @@ table {
   padding-bottom: 100%;
 }
 
-.tile:nth-child(-n+15) {
+.tile:nth-child(-n + 15) {
   display: block;
 }
 
@@ -299,7 +320,6 @@ nav {
 }
 
 .post {
-
   h1 {
     margin: 1.3em 0 0 0;
     position: relative;
@@ -308,7 +328,7 @@ nav {
   }
 
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1.8em 0.8em;
     border-left: 2px solid $lightBodyColor;
     padding: 0.1em 1em;
     color: $lightBodyColor;
