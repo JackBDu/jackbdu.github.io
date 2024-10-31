@@ -21,6 +21,6 @@ The last one is [apps/weather](https://api.jbd.lol/apps/weather), which displays
 
 ![](/media{{ page.url }}screenshot-browser-openweather-api-current-weather.png)
 
-In addition, I included the ability to use [apps/weather?lan=xx.xx&lon=xx.xx](https://api.jbd.lol/apps/weather?lan=22&lon=-73.94) to specify a specific latitude and longitude.
+In addition, I included the ability to use [apps/weather?lat=xx.xx&lon=xx.xx](https://api.jbd.lol/apps/weather?lat=40.68&lon=-73.94) to specify a specific latitude and longitude.
 
 ![](/media{{ page.url }}screenshot-browser-microservices-weather.png)
