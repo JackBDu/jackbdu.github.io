@@ -77,7 +77,19 @@ By varying the size of these chunks, the visuals appear quite different.
 
 ![](/media{{ page.url }}browser-screenshot-p5js-web-editor-truchet-tiles-mixed-styles-1x1.png)
 
-Finally, I used the AxiDraw pen plotter to draw these patterns with various ink colors and paper colors. Here are the final results:
+Finally, I used the AxiDraw pen plotter to draw these patterns with various ink colors and paper colors.
+
+![](/media{{ page.url }}20241105-67_03269.jpg)
+
+![](/media{{ page.url }}20241105-67_03322.jpg)
+
+![](/media{{ page.url }}20241105-67_03359.jpg)
+
+<video width="100%" preload="auto" autoplay playsinline loop muted>
+  <source src="/media{{ page.url }}20241105-axidraw-mixed-truchet-tiling-3x3-yellow-on-black-timelpase-cropped-720p@30fps.mp4" type='video/mp4'>
+</video>
+
+Here are the finished drawings:
 
 ![](/media{{ page.url }}20241105-axidraw-mixed-truchet-tiling-3x3-yellow-on-black.jpg)
 
@@ -87,4 +99,4 @@ Finally, I used the AxiDraw pen plotter to draw these patterns with various ink 
 
 ![](/media{{ page.url }}20241105-axidraw-mixed-truchet-tiling-3x3-purple-on-purple.jpg)
 
-![](/media{{ page.url }}20241105-axidraw-mixed-truchet-tiling- 2x2-yellow-on-orange.jpg)
+![](/media{{ page.url }}20241105-axidraw-mixed-truchet-tiling-2x2-yellow-on-orange.jpg)
