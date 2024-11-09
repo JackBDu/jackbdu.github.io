@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Jack B. Du is an artist and researcher whose work explores the poetic possibilities of code in both analog and digital forms. He holds a Bachelor of Science degree from _New York University Shanghai_ with a double major in Interactive Media Arts and Computer Science, and a minor in Studio Art. He is currently pursuing a Master of Professional Studies degree from the Interactive Telecommunications Program at _New York University, Tisch School of the Arts_. Through his ongoing [daily coding experiments](https://jackbdu.com/works/daily-sketches/), Jack seeks meaning from the mundane, composes poetry with algorithms, and tells stories using computer programs. A [compilation of his experiments in 2022](https://doi.org/10.1145/3615522.3615571) was published in the proceedings of _the 16th International Symposium on Visual Information Communication and Interaction (VINCI ‘23)_.
+Jack B. Du is an artist and researcher whose work centers around experimentation and exploration, with code as his primary medium. His work ranges from robotic drawings and algorithmically fabricated objects to computational sketches and screen-based interactive installations. Jack’s work has been exhibited internationally at events such as _Shenzhen Design Week_ (2018) in China, _Sikka Art and Design Festival_ (2022) in the UAE, _C3 Dev Festival_ (2024) in the Netherlands, and _Interactive Media Art Show_ (2023 & 2024\) in the US. He led a global workshop at _DigitalFUTURES_ (2023), and delivered a featured [presentation](https://www.bilibili.com/video/av27211915/) at _Zaojiu_ (2018) in China. A selection of his work was published in the [proceedings](https://doi.org/10.1145/3615522.3615571) of _the 16th International Symposium on Visual Information Communication and Interaction (VINCI ‘23)_.
 
-Jack’s work has been showcased at exhibitions and venues worldwide, such as _Shenzhen Design Week_ (2018) in China, the _Sikka Art and Design Festival_ (2022) in the UAE, the _C3 Dev Festival_ (2024) in the Netherlands, and the _Interactive Media Art Shows_ (2023 & 2024\) in the US. He has conducted workshops globally at _DigitalFUTURES_ (2023), and delivered a featured [presentation](https://www.bilibili.com/video/av27211915/) at _Zaojiu_ (2018) in China.
-
-Currently, Jack serves as an adjunct professor at _NYU Tisch_, teaching programming and machine learning as mediums for creative expression.
+Jack holds a Bachelor of Science degree in Computer Science and Interactive Media Arts from _NYU Shanghai_ and is currently pursuing a Master of Professional Studies degree in Interactive Telecommunications at _NYU Tisch_. Jack also serves as an adjunct professor at _NYU Tisch_, where he teaches programming and machine learning as mediums for creative expression.
 
 ## Contact
 
@@ -20,11 +18,11 @@ Email me via [hi@jackbdu.com](mailto:hi@jackbdu.com) for collaboration or commis
 
 ## Artist Statement
 
-I speak the language of computers. I encode my stories, my emotions, my curiosities, and my experiences into images, animations, and interactive installations through the relentless act of daily coding. My works are never truly finished. I am constantly on a journey of exploration, experimentation, and reiteration.
+I speak the language of computers. I encode my stories, emotions, curiosities, and experiences into images, animations, and interactive visuals through the relentless act of daily coding. My works are never truly finished. I am constantly on a journey of exploration, experimentation, and reiteration.
 
-Coding as an art practice is much like painting. Code is a sequence of characters that encapsulate a creative process—conceived, revised, altered, and continually revisited. While the outcome of the code is often what is seen, the code itself is like layers and layers of paints underneath a painting, easily forgotten. By sharing the meticulous process of crafting code, I make myself vulnerable, allowing others to peek into my inner world.
+Coding as an art practice is much like painting. Code is a sequence of characters that encapsulate a creative process—conceived, revised, altered, and continually revisited. While the outcome of code is often what is seen, the code itself is like layers and layers of paints underneath a painting, easily forgotten. By sharing the meticulous process of crafting code, I make myself vulnerable, allowing people to peek into the inner workings of my artwork.
 
-My work often deconstructs visuals into pixelated fragments, an aesthetic rooted in nostalgia for retro technology. In a capitalistic society that prizes high precision, my blurry and sometimes abstract pieces celebrate the poetic beauty of human imperfection and computational glitches, while also leaving space for others to decode meaning through the lens of their own lived experiences.
+My work often deconstructs visuals into pixelated fragments, an aesthetic rooted in nostalgia for the past. In a capitalistic society that prizes superhuman precision, my blurry and often abstract pieces celebrate the poetic beauty of human imperfection and computational glitches, while also leaving space for people to decode meaning through the lens of their own lived experiences.
 
 ## Selected Exhibitions
 
