@@ -9,6 +9,8 @@ published: true
 
 This week, I’m exploring the paths of my network transactions using the traceroute utility. I started with the websites that I visit most regularly, such as google.com and instagram.com. I wasn’t sure what I would do to analyze the traceroute outputs, so I decided to take screenshots of every website that I traced. Here are a couple of examples:
 
+<!--more-->
+
 | ![](/media{{ page.url }}screenshot-terminal-window-traceroute-nyu.edu.png) |
 | :------------------------------------------------------------------------: |
 |        Screenshot of Terminal Window of `traceroute nyu.edu` Output        |

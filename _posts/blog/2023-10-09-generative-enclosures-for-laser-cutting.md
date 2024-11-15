@@ -9,6 +9,8 @@ published: true
 
 I was tasked to create an enclosure and I thought it would be fun to design an enclosure with an organic exterior. I wanted to continue exploring computational design approaches, so I started sketching in p5.js.
 
+<!--more-->
+
 I started with a blob generated using [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise).
 
 ![](/media{{ page.url }}20231008-p5js-web-editor-initial-sketch.png)

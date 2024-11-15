@@ -9,6 +9,8 @@ published: true
 
 Introduction to Fabrication is a 7-week course that I am taking at [ITP](https://tisch.nyu.edu/itp). While I have already had **some** experience with fabrication, I think, as I embark on my graduate journey at ITP, this will be a good introduction to the specific tools and machines that are available at the prototyping shop here. I also see this as a great opportunity to experiment, fail, and experiment again, a lot!
 
+<!--more-->
+
 The first assignment for this course is to make a small box, which was demonstrated in class. As an initial test, I followed all the steps that I could remember and made a simple box from a piece of abandoned wood scrap.
 
 ![a small rectangular wooden beige box with its lid ancored at a corner, closed](/media{{ page.url }}20230915-ZVE03322.jpg) | ![a small rectangular wooden beige box with its lid ancored at a corner, half open](/media{{ page.url }}20230915-ZVE03324.jpg)

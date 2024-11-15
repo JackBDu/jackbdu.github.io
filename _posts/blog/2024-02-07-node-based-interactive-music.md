@@ -9,6 +9,8 @@ published: true
 
 While we were exchanging ideas of what we could do with Tone.js and p5.js, [Henry Chen](https://www.instagram.com/metadata_0/) came up with this idea of a node-based system for interacting with music in a virtual 3D environment, in which moving one node could simultaneously affect multiple other nodes that affect the music. We agreed that creating a 2D version first could serve as a very good starting point.
 
+<!--more-->
+
 We debated with ourselves how we should collaborate and ultimately decided that Henry would focus on sound (Tone.js) while I focus on visual (p5.js).
 
 I started with implementing basic draggable nodes in p5.js. As I started working on making the nodes draggable, I debated if I should use HTML elements or even SVG graphics as nodes. It would be much easier to add event listeners to them to handle mouse interaction than implementing it in p5.js canvas. I eventually still decided to use p5.js canvas, because the canvas would allow me to add more interesting visuals later on and I thought it would be a fun challenge as well.

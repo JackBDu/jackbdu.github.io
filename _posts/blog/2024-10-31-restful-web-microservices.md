@@ -9,6 +9,8 @@ published: true
 
 This week, I am experimenting with RESTful web microservices. I set up an nginx server block at [https://api.jbd.lol](https://api.jbd.lol). I wrote a Node.js script based on Tom Igoe's [NodeWithNginx](https://github.com/tigoe/NodeExamples/tree/main/NodeWithNginx) to provide three microservices.
 
+<!--more-->
+
 The first one is [apps/date](https://api.jbd.lol/apps/date), which displays the current date on the server. I am using the `figlet` utility to convert the date text to ASCII art to make it a bit more fun.
 
 ![](/media{{ page.url }}screenshot-browser-microservices-date.png)

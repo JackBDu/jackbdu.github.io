@@ -9,6 +9,8 @@ published: true
 
 In my previous experiments, I integrated hand pose detection in my sketch. Hand-driven interaction feels magical, but also somewhat conventional. For this new series, I wanted to try something less conventional—mouth-driven interaction.
 
+<!--more-->
+
 I used the FaceMesh model in ml5.js. This model can take a webcam feed as an input and detect 468 keypoints of facial landmarks. Conveniently, ml5.js offers a very simple way to access a subset of the keypoints, such as the ones of lips. However, I noticed one of the keypoints was missing, which I believe originated an issue in TensorFlow.js (the library that ml5.js is based on). I subsequently reported this issue to the [ml5.js team](https://github.com/ml5js/ml5-next-gen/issues/107) and the [TensorFlow.js team](https://github.com/tensorflow/tfjs/issues/8221). The ml5.js team addressed this very quickly with a temporary fix. Meanwhile, I created my own arrays of keypoints as I wanted to separte the interior and exterior contour of the lips.
 
 <video width="100%" preload="auto" autoplay playsinline loop muted>

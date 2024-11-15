@@ -9,6 +9,8 @@ published: true
 
 In my past code sketches, I have created patterns in various forms. Most of the time, the patterns were formed simply by repeating the same visual. In a recent class, Tega gave us a systematic overview of different approaches to make patterns. It was mind blowing to see how extensively people have studied patterns. In particular, I was very much drawn into Truchet tiles.
 
+<!--more-->
+
 Before implementing Truchet tiles, I first recreated five classic artworks featuring unique patterns.
 
 ![](/media{{ page.url }}browser-screenshot-p5js-web-editor-schotter-by-georg-nees-recreation.png)

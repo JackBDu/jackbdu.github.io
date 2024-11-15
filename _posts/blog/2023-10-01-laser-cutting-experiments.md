@@ -9,6 +9,8 @@ published: true
 
 This week, I have been experimenting with laser cutting. I wanted to continue incorporating computational thinking into my process, so the first thing I thought of was to create a p5.js sketch for the laser cutter. Although raster files can be used for etching, I think it would be more interesting to generate a vector path for the laser cutter.
 
+<!--more-->
+
 After some research, I found [an open-source project](https://github.com/zenozeng/p5.js-svg) that provides a SVG runtime for p5.js. In order to use it in a p5.js project, first include `<script src="https://unpkg.com/p5.js-svg@1.5.1"></script>` in the index.html file.
 
 ![](/media{{ page.url }}20230929-p5js-svg-setup-script-tag.png)

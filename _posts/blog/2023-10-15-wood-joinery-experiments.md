@@ -9,6 +9,8 @@ published: true
 
 I have always wanted to experiment with wood joinery and I finally decided that this is the week. During my research, I stumbled upon [this interactive wood joint design system](http://www.ma-la.com/tsugite.html) and wanted to create something similar in p5.js.
 
+<!--more-->
+
 To start off, I designed a very specific joint in p5.js with the ability to change the number of sides (details) of the polygon section.
 
 ![](/media{{ page.url }}20231013-p5js-web-editor-joinery-circles.png)

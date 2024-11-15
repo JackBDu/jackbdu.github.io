@@ -9,6 +9,8 @@ published: true
 
 For the graduate course, [Introduction to Fabrication](/tag/introduction-to-fabrication), that I took at [Interactive Telecommunications Program (ITP)](/tag/itp), I spent a few weeks learning and experimenting with a variety of fabrication machines, tools, and materials. I embraced an iterative approach to fabrication and integrated computational techniques into my process. Here are all my experiments, each linked to its respective post:
 
+<!--more-->
+
 ![](/media{{ page.url }}20230915-ZVE03331.jpg) |
 :---:|
 [Sliding-Lid Wooden Box](/blog/wooden-boxes/) |

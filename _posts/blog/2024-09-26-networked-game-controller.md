@@ -9,6 +9,8 @@ published: true
 
 In the Understanding Networks class this week, Tom Igoe showed the class the [Ball Drop Game](https://tigoe.github.io/BallDropGame/). In Tom’s own words, the Ball Drop Game is “a multiplayer game in which players collaborate to keep a ball from hitting the ground”. To play this game, all players need to be on the same network as the game, which is a networked application written in Processing. When we played it for the first time, we all connected to the game using the `netcat` utility via a command line interface. The `netcat` utility established TCP (Transmission Control Protocol) connections from our laptops to Tom’s laptop, where the Ball Drop Game server application was running.
 
+<!--more-->
+
 There were some constraints that made the game particularly challenging. First off, we were controlling our paddle by typing a directional command and pressing the returning key, which was far from intuitive for most of us. Secondly, we did not have fine control over the horizontal movement of the paddle. The paddle moves left and right by increment equivalent to half of its own size. Lastly, the vertical movement of the paddle was super slow, so it was pretty difficult for us to move down quickly to save a ball. Lastly, we can only score when the ball bounces on a new paddle. In other words, the score stays the same if the ball keep bouncing on the same paddle.
 
 Fortunately, that was not the only way to play this game. We were tasked to build a physical controller for this game!

@@ -9,6 +9,8 @@ published: true
 
 This series of experiments started with something completely unrelated to music. I remember seeing ragdoll characters commonly used in video games and artworks either to invoke a surreal feeling or for a comedic effect. I wanted to try implementing it in p5.js with the help of a physics library.
 
+<!--more-->
+
 Box2D is one of those popular physics engine for 2D graphics, but Matter.js seems to have gained popularity in recent years partially due to its native impelmentation in JavaScript. After reading its documentation and watching a couple of Coding Train videos on it, I finally decided to use matter.js.
 
 To me, a ragdoll is essentially a human skeleton with physics built-in. The most minimal starting point I could think of was to create one joint.

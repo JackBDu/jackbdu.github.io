@@ -9,6 +9,8 @@ published: true
 
 In this series of experiments, I started with very basic algorithmically-generated rhythms coupled with simple visual elements.
 
+<!--more-->
+
 ![](/media{{ page.url }}20240217-daily-experiment-basic-rhythm-flowery-visuals-arranged-circularly-720p@30fps-clip.gif) |
 :---: |
 Experiment on Feburary 17, 2024 |

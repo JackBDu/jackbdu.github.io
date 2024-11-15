@@ -9,6 +9,8 @@ published: true
 
 Back in 2017, I built my [first mobile drawing robot](https://jackbdu.com/works/minus-e/) for my undergraduate capstone at NYU Shanghai. Some of my design choices at the time were constrained by the resources and timeline. Now that I am back in school, pursing my master's degree, I wanted to redesign the robot. My main goal was to make the robot smaller so it becomes more portable. I also thought this would be a nice challenge to practice my CAD skills and deepen my understanding of the electronics.
 
+<!--more-->
+
 | ![](/media{{ page.url }}20231112-original-drawing-robot-minus-e-2500px.jpg) |
 | :-------------------------------------------------------------------------: |
 |                  Drawing Robot "Minus E" Developed in 2017                  |

@@ -9,6 +9,8 @@ published: true
 
 I have been making and posting daily creative coding experiments (on my [Instagram](https://www.instagram.com/jackbdu/)) for almost 2 years now. One of the mathematical functions that keep coming back is a sine function (such as in the sketch below, which utilizes a combination of sine and cosine functions). As I have been studying fabrication techniques and mechanical movements recently, I had this idea of creating an automaton that visualizes a sine wave.
 
+<!--more-->
+
 ![](/media{{ page.url }}20230803-v2-animated-thin-long-curve-512x512@15fps.gif){: width="50%"} |
 :---: |
 Sketch on on August 3, 2023 |

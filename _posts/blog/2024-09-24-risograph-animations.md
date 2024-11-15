@@ -9,6 +9,8 @@ published: true
 
 In the past three years, as a part of my [ongoing research](https://jackbdu.com/works/daily-sketches/), I have created well over 1000 computational sketches, in the forms of still images, short animations, and interactive visuals. I have always wanted to experiment more with analog mediums as I am curious about how visuals that are usually shown on digital screens will render on analog mediums. This fall, I am taking [Tega Brain](https://tegabrain.com/about)'s Print and Code at NYU's Integrated Design & Media program, where I learned techniques of risograph printing. I decided to turn three videos of my past sketches, each representing a distinct style of my work, into risograph animations.
 
+<!--more-->
+
 | ![](/media{{ page.url }}20240917-67_02987.jpg) |
 | :--------------------------------------------: |
 |     Morphing Shapes - Contact Sheet in Red     |

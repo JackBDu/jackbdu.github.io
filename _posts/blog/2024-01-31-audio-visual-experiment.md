@@ -9,6 +9,8 @@ published: true
 
 For the past two years, I have been doing lots of computational sketches that focused on visuals. This year, I am enrolled in a graduate course at ITP called the Code of Music, taught by [Luisa Pereira](https://www.luisapereira.net). I finally ran out of excuses for not experimenting with sound.
 
+<!--more-->
+
 For this first experiment, we were prompted to build a simple audio visual instrument in p5.js.
 
 Coincidentally, I have just recently started learning shader in p5.js following [this very well-structured course](https://shadertime.betamovement.net) by [Elie Zananiri](https://betamovement.net/about/). Before even writing any shaders, I was already amazed how I could use vertices to define a 3d mesh constructed by a triangle strip, specify a unique color at each vertex, and the 3d mesh will be filled with color gradients that interpolate these colors. With this idea in mind, I started experimenting with a donut-esque mesh by altering its level of details, animating its vertex colors, and applying oscillation to its vertices.

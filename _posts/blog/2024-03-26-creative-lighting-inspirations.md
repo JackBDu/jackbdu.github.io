@@ -9,6 +9,8 @@ published: true
 
 I am taking a class called Big LEDs, in which we are asked to share a creative lighting moment or object. I did some research on famous installations that incorporate LED lighting.
 
+<!--more-->
+
 One big name that came up was teamLab. I have visited a couple of their venues in person and was really impressed by the scale of their installation. One of those that I have been was teamLab Borderless in Tokyo, where the entire multi-room exhibiton space fused together as one virtual world. There were virtual beings that live in this world and wander around freely. One particular component that I really enjoyed was that I could draw an abstract creature and this creature would
 then move into the world from my drawing and becoming a part of the exhibition.
 
