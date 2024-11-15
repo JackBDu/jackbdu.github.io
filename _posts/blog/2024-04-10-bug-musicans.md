@@ -7,6 +7,8 @@ description:
 published: true
 ---
 
+[ [Try Bug Musicans](https://editor.p5js.org/jackbdu/full/rhLypl-x7) ]
+
 This series of experiments started with something completely unrelated to music. I remember seeing ragdoll characters commonly used in video games and artworks either to invoke a surreal feeling or for a comedic effect. I wanted to try implementing it in p5.js with the help of a physics library.
 
 <!--more-->
@@ -58,7 +60,7 @@ In the live demo below, you can click on the virtual instrument to create as man
 <table style="width: 100%;">
   <thead><tr><th>
     <div style="width: 100%; padding-top: 75%; position: relative;">
-      <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://editor.p5js.org/jackbdu/full/rhLypl-x7" allow="camera"></iframe>
+      <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://editor.p5js.org/jackbdu/full/rhLypl-x7"></iframe>
     </div>
   </th></tr></thead>
   <tbody>

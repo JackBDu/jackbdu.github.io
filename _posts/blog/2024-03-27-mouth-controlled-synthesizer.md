@@ -7,6 +7,8 @@ description:
 published: true
 ---
 
+[ [Try Synthesizer](https://editor.p5js.org/jackbdu/full/jmvG6ZQwR) ]
+
 In my previous experiments, I integrated hand pose detection in my sketch. Hand-driven interaction feels magical, but also somewhat conventional. For this new series, I wanted to try something less conventional—mouth-driven interaction.
 
 <!--more-->
@@ -50,5 +52,3 @@ With a combination of these movements, the synthesizer produces some pretty eeri
 <video width="100%" preload="auto" autoplay playsinline loop muted controls>
   <source src="/media{{ page.url }}20240325-daily-experiment-ml5-facemesh-open-mouth-synth-with-adjustable-vibrato-1080p@60fps_compressed.mp4" type='video/mp4'>
 </video>
-
-Finally, you can try a [Live Demo](https://editor.p5js.org/jackbdu/full/jmvG6ZQwR).
