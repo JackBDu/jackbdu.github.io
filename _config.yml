@@ -6,7 +6,7 @@
 name: Jack B. Du
 
 # Short bio or description (displayed in the header)
-description: I am an artist and researcher interested in creating images, videos, and interactive experiences with code.
+description: Artist, researcher, and educator pushing the boundaries of code as a creative medium.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -14,6 +14,7 @@ avatar:
 #
 # Flags below are optional
 #
+excerpt_separator: "<!--more-->"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
