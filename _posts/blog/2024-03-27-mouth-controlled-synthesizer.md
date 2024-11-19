@@ -7,7 +7,7 @@ description:
 published: true
 ---
 
-[ [Try Synthesizer](https://editor.p5js.org/jackbdu/full/jmvG6ZQwR) ]
+[ [Try Synthesizer](https://jackbdu.com/mouth-synth/) \| [View Source Code](https://github.com/jackbdu/mouth-synth) ]
 
 In my previous experiments, I integrated hand pose detection in my sketch. Hand-driven interaction feels magical, but also somewhat conventional. For this new series, I wanted to try something less conventional—mouth-driven interaction.
 
