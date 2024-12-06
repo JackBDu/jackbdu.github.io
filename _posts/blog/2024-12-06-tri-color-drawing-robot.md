@@ -13,6 +13,6 @@ My previous drawing robots have a very simple mechansim for holding markers—ei
 
 Here is the first working prototype of this new robot.
 
-<video width="100%" preload="auto">
+<video width="100%" preload="auto" controls>
   <source src="/media{{ page.url }}tri-color-drawing-robot-first-working-prototype-1080p.mp4" type='video/mp4'>
 </video>
