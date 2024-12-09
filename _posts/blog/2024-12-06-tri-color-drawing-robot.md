@@ -7,7 +7,7 @@ description:
 published: true
 ---
 
-My previous drawing robots have a very simple mechansim for holding markers—either a series of holes on [Minus E](https://jackbdu.com/works/minus-e/) or a tube on [Scribbot](https://jackbdu.com/blog/drawing-robot-redesigned/). There was also no lifting mechanism, as my robots scribbly drawing style did not require it. This year, inspired by the pen-holding mechansim on pen plotters, I decided to add a similar mechansim to my drawing robot. I added three of them—both to keep the symetrical aesthetics of Scribbot, and to let the robot draw with three different colors simulatenously. Since they can be individually lowered and lifted, the new creative possibilities are more than tripled.
+My previous drawing robots have a very simple mechansim for holding markers—either a series of holes on [Minus E](https://jackbdu.com/works/minus-e/) or a tube on [Scribbot](https://jackbdu.com/blog/drawing-robot-redesigned/). There was also no lifting mechanism, as my robots' scribbly drawing style did not require it. This year, inspired by the pen-holding mechansim on pen plotters, I decided to add a similar mechansim to my drawing robot. I added three of them—both to keep the symetrical aesthetics of Scribbot, and to let the robot draw with three different colors simulatenously. Since they can be individually lowered and lifted, the new creative possibilities are more than tripled.
 
 <!--more-->
 
