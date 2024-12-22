@@ -7,6 +7,8 @@ description:
 published: true
 ---
 
+![](/media{{ page.url }}20241105-67_03426.jpg)
+
 In my past code sketches, I have created patterns in various forms. Most of the time, the patterns were formed simply by repeating the same visual. In a recent class, Tega gave us a systematic overview of different approaches to make patterns. It was mind blowing to see how extensively people have studied patterns. In particular, I was very much drawn into Truchet tiles.
 
 <!--more-->

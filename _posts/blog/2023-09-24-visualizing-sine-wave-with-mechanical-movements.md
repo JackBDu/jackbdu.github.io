@@ -3,18 +3,20 @@ layout: post
 title: Visualizing Sine Wave with Mechanical Movements
 categories: blog
 tags: itp introduction-to-fabrication fabricating-mechanical-automatons
-description: 
+description:
 published: true
 ---
+
+![](/media{{ page.url }}20230924-ZVE03646-cropped.jpg)
 
 I have been making and posting daily creative coding experiments (on my [Instagram](https://www.instagram.com/jackbdu/)) for almost 2 years now. One of the mathematical functions that keep coming back is a sine function (such as in the sketch below, which utilizes a combination of sine and cosine functions). As I have been studying fabrication techniques and mechanical movements recently, I had this idea of creating an automaton that visualizes a sine wave.
 
 <!--more-->
 
-![](/media{{ page.url }}20230803-v2-animated-thin-long-curve-512x512@15fps.gif){: width="50%"} |
-:---: |
-Sketch on on August 3, 2023 |
-[ [View post on Instagram](https://www.instagram.com/p/CvfJJ54BF6h/) ] |
+| ![](/media{{ page.url }}20230803-v2-animated-thin-long-curve-512x512@15fps.gif){: width="50%"} |
+| :--------------------------------------------------------------------------------------------: |
+|                                  Sketch on on August 3, 2023                                   |
+|             [ [View post on Instagram](https://www.instagram.com/p/CvfJJ54BF6h/) ]             |
 
 One of the mechanisms that I recently learned is called [cam](https://en.wikipedia.org/wiki/Cam), which is commonly used to transform rotary motion into linear motion. I tried imagining and sketching what a cam would look like if the linear movement it produces follows a sine wave. I started with a regular sine wave, and tried to wrap it around a circle. While it gave me a general idea of what it might look like, it was far from accurate.
 
@@ -58,7 +60,6 @@ The next step was to look for a rod (Yes, I did not have a rod. I sort of went w
 
 Looking good! Time to hot glue them together! I found the gluing process very satisfying, maybe it was because I have not worked on a physical piece for a very long time. It also felt so special to see this repetitive pattern coming together physically, as I have only experimented with repetition in digital forms.
 
-
 ![](/media{{ page.url }}IMG_9126.jpg)
 
 At this point, I needed build a structure to hold the rod. It was such a coincident that the unused portion of the cardboard box seemed to serve as a perfect base. I did some rough measurements and cut it into a shape that could be folded into a half-opening box.
@@ -87,9 +88,9 @@ I was so excited to try them out! I made a thick cardboard block and drilled hol
 
 The wood block definitely worked better, but with the amount of frication between the cardboard cams and the pencil, the mechanism kept getting stuck. My classmate, Josh, suggested that I should try increasing the touching surface. I did that by hot-gluing an extra piece of cardboard at the bottom of the pencil and it worked!
 
-![](/media{{ page.url }}IMG_9147-1024x576@10fps.gif) |
-:---: |
-Me taking a video while holding the prototype and rotating the shalf, trying not to bother other people |
+|                          ![](/media{{ page.url }}IMG_9147-1024x576@10fps.gif)                           |
+| :-----------------------------------------------------------------------------------------------------: |
+| Me taking a video while holding the prototype and rotating the shalf, trying not to bother other people |
 
 While the motion was far from perfect, this (mostly) cardboard prototype proved that my idea could work. It also convinced me that a wooden prototype would work much more reliably.
 
@@ -154,8 +155,8 @@ It finally worked!!!
 
 Here are a couple of things I need to improve next time:
 
-- I should use the drill press for cleaner and smoother holes to minimize wobbling.
+-   I should use the drill press for cleaner and smoother holes to minimize wobbling.
 
-- One other thing that can help reduce wobbling is to either increase the distance between the two top panels, or use a single piece of wood that is much thicker.
+-   One other thing that can help reduce wobbling is to either increase the distance between the two top panels, or use a single piece of wood that is much thicker.
 
-- The cams should be installed on the rod with stronger frictions or completely glued together to avoid slipping.
+-   The cams should be installed on the rod with stronger frictions or completely glued together to avoid slipping.

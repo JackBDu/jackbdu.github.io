@@ -9,6 +9,8 @@ published: true
 
 [ [View Freshly-Synthsized Banner Ads](http://ad.jbd.lol/) ]
 
+![](/media{{ page.url }}20241213-67_03726.jpg)
+
 [Banner Depot 2000](https://www.banner-depot-2000.net/) is an interactive archive of over 20,000 banner ads from the late 1990s and early 2000s. The authors of this project, Richard Lewei Huang and Yufeng Zhao, published a [dataset of these banner ads](https://doi.org/10.5281/zenodo.8408539). This project brings out so much nostalgia of my early memories of the Internet and I have been meaning to make a project using this dataset.
 
 <!--more-->
