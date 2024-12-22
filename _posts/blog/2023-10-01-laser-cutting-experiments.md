@@ -3,9 +3,11 @@ layout: post
 title: Laser Cutting Experiments
 categories: blog
 tags: itp introduction-to-fabrication
-description: 
+description:
 published: true
 ---
+
+![](/media{{ page.url }}20231001-ZVE03835.jpg)
 
 This week, I have been experimenting with laser cutting. I wanted to continue incorporating computational thinking into my process, so the first thing I thought of was to create a p5.js sketch for the laser cutter. Although raster files can be used for etching, I think it would be more interesting to generate a vector path for the laser cutter.
 
@@ -89,8 +91,6 @@ Here is a timelapse of the whole process, which took about half an hour:
 Here is the final result:
 
 ![](/media{{ page.url }}20231001-ZVE03686.jpg)
-
-![](/media{{ page.url }}20231001-ZVE03835.jpg)
 
 Some more closeup shots:
 

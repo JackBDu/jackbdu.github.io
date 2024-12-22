@@ -3,9 +3,11 @@ layout: post
 title: Generative Enclosures for Laser Cutting
 categories: blog
 tags: itp introduction-to-fabrication
-description: 
+description:
 published: true
 ---
+
+![](/media{{ page.url }}20231009-ZVE03898.jpg)
 
 I was tasked to create an enclosure and I thought it would be fun to design an enclosure with an organic exterior. I wanted to continue exploring computational design approaches, so I started sketching in p5.js.
 
@@ -123,5 +125,3 @@ Finally, please enjoy more photos showing these two designs.
 ![](/media{{ page.url }}20231009-ZVE03847.jpg) | ![](/media{{ page.url }}20231009-ZVE03870.jpg)
 
 ![](/media{{ page.url }}20231009-ZVE03873.jpg)
-
-![](/media{{ page.url }}20231009-ZVE03898.jpg)
