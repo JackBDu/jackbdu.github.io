@@ -3,9 +3,11 @@ layout: post
 title: Audio-Visual Experiment
 categories: blog
 tags: itp the-code-of-music
-description: 
+description:
 published: true
 ---
+
+![](/media{{ page.url }}20240131-daily-experiment-3d-donut-sound-visualization-1080p@60fps-still-1.jpg)
 
 For the past two years, I have been doing lots of computational sketches that focused on visuals. This year, I am enrolled in a graduate course at ITP called the Code of Music, taught by [Luisa Pereira](https://www.luisapereira.net). I finally ran out of excuses for not experimenting with sound.
 
@@ -15,10 +17,10 @@ For this first experiment, we were prompted to build a simple audio visual instr
 
 Coincidentally, I have just recently started learning shader in p5.js following [this very well-structured course](https://shadertime.betamovement.net) by [Elie Zananiri](https://betamovement.net/about/). Before even writing any shaders, I was already amazed how I could use vertices to define a 3d mesh constructed by a triangle strip, specify a unique color at each vertex, and the 3d mesh will be filled with color gradients that interpolate these colors. With this idea in mind, I started experimenting with a donut-esque mesh by altering its level of details, animating its vertex colors, and applying oscillation to its vertices.
 
-![](/media{{ page.url }}20240128-daily-experiment-3d-zigzag-donut-rotating-720p@30fps.gif) |
-:---: |
-Experiment on January 28, 2024 |
-[ [View post on Instagram](https://www.instagram.com/p/C2pSE1JONX2/) ] |
+| ![](/media{{ page.url }}20240128-daily-experiment-3d-zigzag-donut-rotating-720p@30fps.gif) |
+| :----------------------------------------------------------------------------------------: |
+|                               Experiment on January 28, 2024                               |
+|           [ [View post on Instagram](https://www.instagram.com/p/C2pSE1JONX2/) ]           |
 
 This served as a good foundation for my visual. Now it is time to choose audio.
 

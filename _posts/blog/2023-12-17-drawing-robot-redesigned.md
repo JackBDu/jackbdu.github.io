@@ -7,6 +7,8 @@ description:
 published: true
 ---
 
+![](/media{{ page.url }}20231218-67_00467.jpg)
+
 Back in 2017, I built my [first mobile drawing robot](https://jackbdu.com/works/minus-e/) for my undergraduate capstone at NYU Shanghai. Some of my design choices at the time were constrained by the resources and timeline. Now that I am back in school, pursing my master's degree, I wanted to redesign the robot. My main goal was to make the robot smaller so it becomes more portable. I also thought this would be a nice challenge to practice my CAD skills and deepen my understanding of the electronics.
 
 <!--more-->
@@ -92,8 +94,6 @@ I even added new path to the algorithm so the robot could now traverse the pixel
 <video width="100%" preload="auto" autoplay playsinline loop muted>
   <source src="/media{{ page.url }}IMG_0965.MOV_compressed.mp4" type='video/mp4'>
 </video>
-
-![](/media{{ page.url }}20231218-67_00467.jpg)
 
 | ![](/media{{ page.url }}20231218-67_00389.jpg) | ![](/media{{ page.url }}20231218-67_00398.jpg) |
 
