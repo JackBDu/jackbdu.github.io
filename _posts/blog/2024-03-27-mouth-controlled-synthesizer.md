@@ -9,6 +9,8 @@ published: true
 
 [ [Try Mouth Synth](https://jackbdu.com/mouth-synth/) \| [View source code on gitHub](https://github.com/jackbdu/mouth-synth) ]
 
+![](/media{{ page.url }}20240325-daily-experiment-ml5-facemesh-open-mouth-synth-with-adjustable-vibrato-1080p@60fps-artechouse-still-4.jpg)
+
 In my previous experiments, I integrated hand pose detection in my sketch. Hand-driven interaction feels magical, but also somewhat conventional. For this new series, I wanted to try something less conventional—mouth-driven interaction.
 
 <!--more-->
@@ -25,30 +27,30 @@ To emphasize the mouth as the controller, I dynamically scaled the lip contours 
   <source src="/media{{ page.url }}20240317-daily-experiment-ml5-facemesh-large-mouth-1080p@60fps_compressed-clip.mp4" type='video/mp4'>
 </video>
 
-With a well developed visual, it was finally time to focus on the mapping of mouth movements to the sythesizer parameters. I chose to use the FMSynth built into the Tone.js library as it offered a lot of flexibilty.
+With a well developed visual, it was finally time to focus on the mapping of mouth movements to the synthesizer parameters. I chose to use the FMSynth built into the Tone.js library as it offered a lot of flexibilty.
 
 After numerous experimentations, I landed on these controls:
 
 The opening and closing of mouth triggers the start and end of sythesized sound. The pitch of the sound depends on the tilt of the detected face before triggering the start.
 
-<video width="100%" preload="auto" autoplay playsinline loop muted controls>
+<video width="100%" preload="auto" loop controls>
   <source src="/media{{ page.url }}20240319-daily-experiment-ml5-facemesh-open-mouth-and-tilt-head-to-synth-1080p@60fps_compressed-clip.mp4" type='video/mp4'>
 </video>
 
 Once a sound synthesis starts, the opening of the mouth changes the volume and tilting your head clockwise or counter-clockwise detunes the sound (tilting also changes the frequency of the vibrato effect, which was added later).
 
-<video width="100%" preload="auto" autoplay playsinline loop muted controls>
+<video width="100%" preload="auto" loop controls>
   <source src="/media{{ page.url }}20240321-daily-experiment-ml5-facemesh-open-mouth-and-tilt-head-to-synth-with-detuning-1080p@60fps_compressed-clip.mp4" type='video/mp4'>
 </video>
 
 Similarly, shaking your head left or right changes the harmonicity of the playing sound, and lifting or lowering your chin changes the modulation index.
 
-<video width="100%" preload="auto" autoplay playsinline loop muted controls>
+<video width="100%" preload="auto" loop controls>
   <source src="/media{{ page.url }}20240322-daily-experiment-ml5-facemesh-open-mouth-and-shake-head-to-change-harmonicity-1080p@60fps_compressed-clip.mp4" type='video/mp4'>
 </video>
 
 With a combination of these movements, the synthesizer produces some pretty eerie sounds, quite suitable for this mouth-focused visual. Unmute the video below to hear the sound.
 
-<video width="100%" preload="auto" autoplay playsinline loop muted controls>
+<video width="100%" preload="auto" loop controls>
   <source src="/media{{ page.url }}20240325-daily-experiment-ml5-facemesh-open-mouth-synth-with-adjustable-vibrato-1080p@60fps_compressed.mp4" type='video/mp4'>
 </video>
