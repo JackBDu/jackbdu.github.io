@@ -3,9 +3,11 @@ layout: post
 title: Node-Based Interactive Music
 categories: blog
 tags: itp the-code-of-music
-description: 
+description:
 published: true
 ---
+
+![](/media{{ page.url }}node-based-interactive-music-study-cover-photo.jpg)
 
 While we were exchanging ideas of what we could do with Tone.js and p5.js, [Henry Chen](https://www.instagram.com/metadata_0/) came up with this idea of a node-based system for interacting with music in a virtual 3D environment, in which moving one node could simultaneously affect multiple other nodes that affect the music. We agreed that creating a 2D version first could serve as a very good starting point.
 
@@ -41,3 +43,4 @@ The next day, I spent a lot of time cleaning up the code so it is more organized
   </tbody>
 </table>
 
+Finally, Henry focused on applying this node-based interactive system to control a loop, with distances between nodes affecting the lowpass filter applied to each branching node. You can check out [his experiment](https://editor.p5js.org/jackbdu/full/Dy7eELCl-) on p5.js Web Editor.
