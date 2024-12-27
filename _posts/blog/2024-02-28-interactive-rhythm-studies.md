@@ -3,25 +3,27 @@ layout: post
 title: Interactive Rhythm Studies
 categories: blog
 tags: itp the-code-of-music
-description: 
+description:
 published: true
 ---
+
+![](/media{{ page.url }}20240228-daily-experiment-physics-driven-interactive-rhythm-sequencer-1080p@60fps-still.jpg)
 
 In this series of experiments, I started with very basic algorithmically-generated rhythms coupled with simple visual elements.
 
 <!--more-->
 
-![](/media{{ page.url }}20240217-daily-experiment-basic-rhythm-flowery-visuals-arranged-circularly-720p@30fps-clip.gif) |
-:---: |
-Experiment on Feburary 17, 2024 |
-[ [View post on Instagram](https://www.instagram.com/p/C3e9oieum5N/) ] |
+| ![](/media{{ page.url }}20240217-daily-experiment-basic-rhythm-flowery-visuals-arranged-circularly-720p@30fps-clip.gif) |
+| :---------------------------------------------------------------------------------------------------------------------: |
+|                                             Experiment on Feburary 17, 2024                                             |
+|                         [ [View post on Instagram](https://www.instagram.com/p/C3e9oieum5N/) ]                          |
 
 Depsite the simplicity of the visuals, I found myself making more progress in the visual than the rhythm.
 
-![](/media{{ page.url }}20240219-daily-experiment-basic-rhythm-triangle-visuals-arranged-circularly-720p@30fps-clip.gif) |
-:---: |
-Experiment on Feburary 19, 2024 |
-[ [View post on Instagram](https://www.instagram.com/p/C3jeGAouGUg/) ] |
+| ![](/media{{ page.url }}20240219-daily-experiment-basic-rhythm-triangle-visuals-arranged-circularly-720p@30fps-clip.gif) |
+| :----------------------------------------------------------------------------------------------------------------------: |
+|                                             Experiment on Feburary 19, 2024                                              |
+|                          [ [View post on Instagram](https://www.instagram.com/p/C3jeGAouGUg/) ]                          |
 
 I wanted to incorporate some physics in the creation of the rhythm, but I was not sure how I could do it. I decided to implement a basic rhythm sequencer as a starting point.
 
@@ -60,4 +62,3 @@ Though it is simple enough to add one bouncing bubble, having multiple ones inte
   </th></tr>
   </tbody>
 </table>
-
