@@ -9,6 +9,8 @@ published: true
 
 [ [Try Bug Musicans](https://editor.p5js.org/jackbdu/full/rhLypl-x7) ]
 
+![](/media/{{ page.url }}bug-musician-cover-photo.jpg)
+
 This series of experiments started with something completely unrelated to music. I remember seeing ragdoll characters commonly used in video games and artworks either to invoke a surreal feeling or for a comedic effect. I wanted to try implementing it in p5.js with the help of a physics library.
 
 <!--more-->
