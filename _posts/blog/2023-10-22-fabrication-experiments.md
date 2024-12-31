@@ -25,9 +25,9 @@ For the graduate course, [Introduction to Fabrication](/tag/introduction-to-fabr
 | :----------------------------------------------------------------------------: |
 | [Sine Wave Visualizer](/blog/visualizing-sine-wave-with-mechanical-movements/) |
 
-|          ![](/media{{ page.url }}20231001-ZVE03713.jpg)          |
-| :--------------------------------------------------------------: |
-| [Laser-Engraved Self-Portrait](/blog/laser-cutting-experiments/) |
+|           ![](/media{{ page.url }}20231001-ZVE03713.jpg)           |
+| :----------------------------------------------------------------: |
+| [Laser-Engraved Self-Portrait](/blog/laser-engraving-experiments/) |
 
 |                 ![](/media{{ page.url }}20231021-ZVE04611.jpg)                 |
 | :----------------------------------------------------------------------------: |
