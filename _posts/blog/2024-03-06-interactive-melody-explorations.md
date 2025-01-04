@@ -65,4 +65,38 @@ I landed on a color theme of muted colors for the nodes and used the blur filter
   </tbody>
 </table>
 
-To add a more magical effect, instead of mouse interaction, I utilized the hand pose model in ml5.js to let people [draw melodies with their hand](https://www.instagram.com/p/C4eOPboMBP2/). More specifically, pinching your thumb and index finger would trigger the drawing mode while spreading them out would clear all nodes. I also experimented with a pie-shaped status indicator, but it stood out too much against the overall minimalistic aesthetic.
+To add a more magical effect, instead of mouse interaction, I utilized the hand pose model in ml5.js to let people draw melodies with their hand. More specifically, pinching your thumb and index finger would trigger the drawing mode while spreading them out would clear all nodes.
+
+<table style="width: 100%;">
+  <thead><tr><th>
+    <video controls width="100%" preload="auto" loop>
+      <source src="/media/{{ page.url }}20240310-daily-experiment-draw-melodies-with-hand-refined-1080p@60fps.mp4" type='video/mp4'>
+    </video>
+  </th></tr></thead>
+  <tbody>
+  <tr><th>
+    Experiment on March 10, 2024
+  </th></tr>
+  <tr><th>
+    [ <a href="https://www.instagram.com/p/C4WozrtsZ4r/">View post on Instagram</a> | <a href="https://editor.p5js.org/jackbdu/sketches/8g7Wx9Q9H">View source code in p5.js Web Editor</a> ]
+  </th></tr>
+  </tbody>
+</table>
+
+I also experimented with a pie-shaped status indicator, but it stood out too much against the overall minimalistic aesthetic.
+
+<table style="width: 100%;">
+  <thead><tr><th>
+    <video controls width="100%" preload="auto" loop>
+      <source src="/media/{{ page.url }}20240313-daily-experiment-draw-melodies-with-hand-spread-to-clear-1080p@60fps.mp4" type='video/mp4'>
+    </video>
+  </th></tr></thead>
+  <tbody>
+  <tr><th>
+    Experiment on March 13, 2024
+  </th></tr>
+  <tr><th>
+    [ <a href="https://www.instagram.com/p/C4eOPboMBP2/">View post on Instagram</a> | <a href="https://editor.p5js.org/jackbdu/sketches/jIvzImJMb">View source code in p5.js Web Editor</a> ]
+  </th></tr>
+  </tbody>
+</table>
