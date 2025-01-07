@@ -2,7 +2,7 @@
 layout: post
 title: Dark & Light
 categories: works
-tags: arduino installation featured
+tags: arduino installation
 description: An interative sculpture of dark and light.
 ---
 

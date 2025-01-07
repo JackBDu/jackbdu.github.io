@@ -2,7 +2,7 @@
 layout: post
 title: Self-Portraits
 categories: works
-tags: digital photography featured
+tags: digital photography
 description: A series of photographs of myself.
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Repeating Patterns and Machine Drawing
 categories: blog
-tags: algorithmic drawing chaotic scribble pattern analog javascript p5js print-and-code
+tags: algorithmic drawing chaotic scribble pattern analog javascript p5js print-and-code featured
 description:
 published: true
 ---

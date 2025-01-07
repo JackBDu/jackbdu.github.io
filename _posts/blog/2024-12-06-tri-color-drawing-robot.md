@@ -2,7 +2,7 @@
 layout: post
 title: Tri-Color Drawing Robot
 categories: blog
-tags: drawing robot mechanical chaotic scribble pixelation analog fabrication arduino network itp designing-for-digital-fabrication
+tags: drawing robot mechanical chaotic scribble pixelation analog fabrication arduino network itp designing-for-digital-fabrication featured
 description:
 published: true
 ---

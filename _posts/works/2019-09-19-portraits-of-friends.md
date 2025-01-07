@@ -2,7 +2,7 @@
 layout: post
 title: Portraits of Friends
 categories: works
-tags: procreate digital painting featured
+tags: procreate digital painting
 description: A series of digital paintings of my friends.
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Banner Ads Generator
 categories: blog
-tags: risograph printmaking analog web algorithmic javascript p5js print-and-code
+tags: risograph printmaking analog web algorithmic javascript p5js print-and-code featured
 description:
 published: true
 ---

@@ -2,14 +2,14 @@
 layout: post
 title: Mouth-Controlled Synthesizer
 categories: blog
-tags: music audiovisual web javascript p5js ml5js tonejs itp the-code-of-music
+tags: music audiovisual web javascript p5js ml5js tonejs itp the-code-of-music featured
 description:
 published: true
 ---
 
 [ [Try Mouth Synth](https://jackbdu.com/mouth-synth/) \| [View source code on gitHub](https://github.com/jackbdu/mouth-synth) ]
 
-![](/media{{ page.url }}20240317-daily-experiment-ml5-facemesh-large-mouth-1080p@60fps-still.jpg)
+![](/media{{ page.url }}20240324-daily-experiment-ml5-facemesh-open-mouth-synth-with-vibrato-1080p-frame-1-edited.jpg)
 
 In my previous experiments, I integrated hand pose detection in my sketch. Hand-driven interaction feels magical, but also somewhat conventional. For this new series, I wanted to try something less conventional—mouth-driven interaction.
 

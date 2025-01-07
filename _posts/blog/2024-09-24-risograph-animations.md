@@ -2,7 +2,7 @@
 layout: post
 title: Risograph Animations
 categories: blog
-tags: risograph animation printmaking analog scribble portrait openframeworks p5js glsl print-and-code
+tags: risograph animation printmaking analog scribble portrait openframeworks p5js glsl print-and-code featured
 description:
 published: true
 ---
