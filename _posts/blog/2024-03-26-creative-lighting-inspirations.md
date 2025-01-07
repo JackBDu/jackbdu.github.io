@@ -4,7 +4,7 @@ title: Creative Lighting Inspirations
 categories: blog
 tags: itp big-leds
 description: 
-published: true
+published: false
 ---
 
 I am taking a class called Big LEDs, in which we are asked to share a creative lighting moment or object. I did some research on famous installations that incorporate LED lighting.
