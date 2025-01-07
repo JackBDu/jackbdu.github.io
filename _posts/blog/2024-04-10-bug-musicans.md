@@ -2,7 +2,7 @@
 layout: post
 title: Bug Musicans
 categories: blog
-tags: itp the-code-of-music
+tags: music audiovisual javascript p5js matterjs tonejs itp the-code-of-music
 description:
 published: true
 ---
