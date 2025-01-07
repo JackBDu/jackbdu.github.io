@@ -2,7 +2,7 @@
 layout: post
 title: Fabrication Experiments
 categories: blog
-tags: itp introduction-to-fabrication featured
+tags: algorithmic fabrication p5js javascript itp introduction-to-fabrication featured
 description:
 published: true
 ---

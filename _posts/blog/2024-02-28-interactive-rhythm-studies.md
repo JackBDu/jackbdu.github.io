@@ -2,7 +2,7 @@
 layout: post
 title: Interactive Rhythm Studies
 categories: blog
-tags: music audiovisual javascript p5js matterjs tonejs itp the-code-of-music
+tags: music audiovisual web javascript p5js matterjs tonejs itp the-code-of-music
 description:
 published: true
 ---

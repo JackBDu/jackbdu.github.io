@@ -2,7 +2,7 @@
 layout: post
 title: Generative Enclosures for Laser Cutting
 categories: blog
-tags: itp introduction-to-fabrication
+tags: algorithmic fabrication p5js javascript itp introduction-to-fabrication
 description:
 published: true
 ---

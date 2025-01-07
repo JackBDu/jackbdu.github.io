@@ -2,7 +2,7 @@
 layout: post
 title: Laser Engraving Experiments
 categories: blog
-tags: itp introduction-to-fabrication
+tags: algorithmic scribble portrait fabrication p5js javascript itp introduction-to-fabrication
 description:
 published: true
 ---

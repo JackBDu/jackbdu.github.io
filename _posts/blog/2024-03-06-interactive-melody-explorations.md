@@ -2,7 +2,7 @@
 layout: post
 title: Interactive Melody Explorations
 categories: blog
-tags: music audiovisual javascript p5js ml5js tonejs itp the-code-of-music
+tags: music audiovisual web javascript p5js ml5js tonejs itp the-code-of-music
 description:
 published: true
 ---

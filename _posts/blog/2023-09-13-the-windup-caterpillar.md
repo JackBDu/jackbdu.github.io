@@ -2,12 +2,12 @@
 layout: post
 title: The Windup Caterpillar
 categories: blog
-tags: itp fabricating-mechanical-automatons
-description: 
+tags: mechanical itp fabricating-mechanical-automatons
+description:
 published: true
 ---
 
-This year, I am starting a new chapter of my life as a graduate student in the [Interactive Telecommunications Program (ITP)](https://tisch.nyu.edu/itp) at [Tisch School of Arts, New York University]([https://tisch.nyu.edu](https://tisch.nyu.edu/)). As I pursue my graduate studies here, I will be sharing lots of updates on this blog. One of the courses that I am taking is called [Fabricating Mechanical Automatons \*Batteries Not Included](https://doubletake.notion.site/9f357e279aa943ddaace71145300eb92).
+This year, I am starting a new chapter of my life as a graduate student in the [Interactive Telecommunications Program (ITP)](https://tisch.nyu.edu/itp) at [Tisch School of Arts, New York University](<[https://tisch.nyu.edu](https://tisch.nyu.edu/)>). As I pursue my graduate studies here, I will be sharing lots of updates on this blog. One of the courses that I am taking is called [Fabricating Mechanical Automatons \*Batteries Not Included](https://doubletake.notion.site/9f357e279aa943ddaace71145300eb92).
 
 <!--more-->
 
@@ -21,17 +21,17 @@ As a part of the first homework for this class, I set out on a quest last Sunday
 
 Here are some orthographic photos of this lovely toy:
 
-![](/media{{ page.url }}20230913-ZVE03197.jpg) | ![](/media{{ page.url }}20230913-ZVE03218.jpg) |
-:---: | :---: |
-Front View | Back View
+| ![](/media{{ page.url }}20230913-ZVE03197.jpg) | ![](/media{{ page.url }}20230913-ZVE03218.jpg) |
+| :--------------------------------------------: | :--------------------------------------------: |
+|                   Front View                   |                   Back View                    |
 
-![](/media{{ page.url }}20230913-ZVE03225.jpg) | ![](/media{{ page.url }}20230913-ZVE03231.jpg)
-:---: | :---: |
-Left View | Right View
+| ![](/media{{ page.url }}20230913-ZVE03225.jpg) | ![](/media{{ page.url }}20230913-ZVE03231.jpg) |
+| :--------------------------------------------: | :--------------------------------------------: |
+|                   Left View                    |                   Right View                   |
 
-![](/media{{ page.url }}20230913-ZVE03234.jpg) | ![](/media{{ page.url }}20230913-ZVE03246.jpg)
-:---: | :---: |
-Top View | Bottom View
+| ![](/media{{ page.url }}20230913-ZVE03234.jpg) | ![](/media{{ page.url }}20230913-ZVE03246.jpg) |
+| :--------------------------------------------: | :--------------------------------------------: |
+|                    Top View                    |                  Bottom View                   |
 
 Before opening it up, I closely examined the toy. I don't remember when it was my last time to open up a windup toy, but I imagine there is probably a spiral spring inside that is being twisted as I turn the windup knob, which stores the energy that will then be released backwards. I noticed there is a small piece of plastic stick attached to one of the wheels. For every turn the wheel rotates, the stick pushes one side of the immediately attached body segment, which makes that segment wiggle sideways. The last two segments near the rear end seem to move freely, so their movements mostly likely come from the segment before them.
 

@@ -2,8 +2,8 @@
 layout: post
 title: Caterpillar Toy Movement Study
 categories: blog
-tags: itp fabricating-mechanical-automatons
-description: 
+tags: mechanical itp fabricating-mechanical-automatons
+description:
 published: true
 ---
 
@@ -38,4 +38,3 @@ As I closely observed this movement of the caterpillar, I realized that the smal
 Here's the final GIF animatoin demonstrating this mechanism:
 
 ![](/media{{ page.url }}caterpillar-movement-animation.gif)
-

@@ -2,7 +2,7 @@
 layout: post
 title: Drawing Robot Redesigned
 categories: blog
-tags: itp prototyping-electronic-devices
+tags: drawing robot mechanical chaotic scribble pixelation analog fabrication arduino network itp prototyping-electronic-devices
 description:
 published: true
 ---

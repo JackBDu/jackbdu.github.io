@@ -2,7 +2,7 @@
 layout: post
 title: Visualizing Sine Wave with Mechanical Movements
 categories: blog
-tags: itp introduction-to-fabrication fabricating-mechanical-automatons
+tags: algorithmic mechanical fabrication p5js javascript itp introduction-to-fabrication fabricating-mechanical-automatons
 description:
 published: true
 ---

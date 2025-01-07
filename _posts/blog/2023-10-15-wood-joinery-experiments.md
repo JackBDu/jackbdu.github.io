@@ -2,8 +2,8 @@
 layout: post
 title: Wood Joinery Experiments
 categories: blog
-tags: itp introduction-to-fabrication
-description: 
+tags: algorithmic fabrication p5js javascript itp introduction-to-fabrication
+description:
 published: true
 ---
 
