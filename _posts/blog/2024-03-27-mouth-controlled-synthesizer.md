@@ -7,7 +7,7 @@ description:
 published: true
 ---
 
-[ [Try Mouth Synth](https://jackbdu.com/mouth-synth/) \| [View source code on gitHub](https://github.com/jackbdu/mouth-synth) ]
+[ [Try Mouth Synth](https://jackbdu.com/mouth-synth/) \| [View source code on GitHub](https://github.com/jackbdu/mouth-synth) ]
 
 ![](/media{{ page.url }}20240324-daily-experiment-ml5-facemesh-open-mouth-synth-with-vibrato-1080p-frame-1-edited.jpg)
 
