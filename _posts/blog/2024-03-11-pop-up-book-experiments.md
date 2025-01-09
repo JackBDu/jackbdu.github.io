@@ -1,27 +1,27 @@
 ---
 layout: post
-title: Popup Book Experiments
+title: Pop-up Book Experiments
 categories: blog
 tags: analog itp paper-engineering
 description:
 published: true
 ---
 
-![](/media{{ page.url }}popup-book-cover-photo.jpg)
+![](/media{{ page.url }}pop-up-book-cover-photo.jpg)
 
 At ITP, I took a class called Paper Enginnering and Interactive Play with Sam Ita. I was very excited to experiment with paper. Paper is such a ubiquitous medium, yet often overlooked.
 
 <!--more-->
 
-One of my favorite components of this class was making popup books. For my first popup book, I took a very algorithmic approach and created a popup book out of repetition. It was a simple practice, but I was very happy with how it turned out.
+One of my favorite components of this class was making pop-up books. For my first pop-up book, I took a very algorithmic approach and created a pop-up book out of repetition. It was a simple practice, but I was very happy with how it turned out.
 
 <video width="100%" preload="auto" controls>
     <source src="/media{{ page.url }}IMG_2944-edited_compressed.mp4" type='video/mp4'>
 </video>
 
-For a more elaborate popup book, I wanted to create something more personal. Similar to the drummer automaton that I created last year, I decided to make a drummer popup book. It was inspired by the drummers in the Ansai Waist Drum performance, which is a traditional folk dance popular in my hometown.
+For a more elaborate pop-up book, I wanted to create something more personal. Similar to the drummer automaton that I created last year, I decided to make a drummer pop-up book. It was inspired by the drummers in the Ansai Waist Drum performance, which is a traditional folk dance popular in my hometown.
 
-First, I experimented with a few popup mechanisms for animating the drummer's arms.
+First, I experimented with a few pop-up mechanisms for animating the drummer's arms.
 
 <video width="100%" preload="auto" autoplay playsinline loop muted>
     <source src="/media{{ page.url }}A001_03112157_C003.mov_compressed.mp4" type='video/mp4'>
