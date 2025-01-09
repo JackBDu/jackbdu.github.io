@@ -2,7 +2,7 @@
 layout: post
 title: Drawing Mechanism Study
 categories: blog
-tags: itp fabricating-mechanical-automatons
+tags: mechanical chaotic scribble drawing analog fabrication itp fabricating-mechanical-automatons
 description:
 published: true
 ---
