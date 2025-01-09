@@ -43,8 +43,14 @@ In the next prototype, I added a bit more fidelity to the character design and m
     <source src="/media{{ page.url }}A001_03112158_C005.mov_compressed.mp4" type='video/mp4'>
 </video>
 
-Finally, here is the final version with detailed facial features and a traditional towel headwear.
+Finally, in the final version of the drummer, I added detailed facial features and even gave the drummer the traditional headwear from my hometown.
 
 <video width="100%" preload="auto" controls>
     <source src="/media{{ page.url }}A001_03112154_C002.mov_compressed.mp4" type='video/mp4'>
+</video>
+
+In addition to my own pop-up book experiments, my friend, [Richard Lewei Huang](https://lewei.me/about/) and I are collaborating on a series of pop-up books of pop-up ads from the early 2000s. Below is the first prototype we built.
+
+<video width="100%" preload="auto" autoplay playsinline loop muted>
+    <source src="/media{{ page.url }}IMG_3316_compressed.mp4" type='video/mp4'>
 </video>
