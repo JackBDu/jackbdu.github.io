@@ -2,7 +2,7 @@
 layout: post
 title: Drummer Automaton
 categories: blog
-tags: mechanical fabrication analog itp fabricating-mechanical-automatons
+tags: mechanical fabrication analog itp fabricating-mechanical-automatons featured
 description:
 published: true
 ---
