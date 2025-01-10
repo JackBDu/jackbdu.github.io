@@ -19,7 +19,7 @@ One of my favorite components of this class was making pop-up books. For my firs
     <source src="/media{{ page.url }}IMG_2944-edited_compressed.mp4" type='video/mp4'>
 </video>
 
-For a more elaborate pop-up book, I wanted to create something more personal. Similar to the drummer automaton that I created last year, I decided to make a drummer pop-up book. It was inspired by the drummers in the Ansai Waist Drum performance, which is a traditional folk dance popular in my hometown.
+For a more elaborate pop-up book, I wanted to create something more personal. Similar to the [drummer automaton](https://jackbdu.com/blog/drummer-automaton/) that I created last year, I decided to make a drummer pop-up book. It was inspired by the drummers in the [Yaogu](https://en.wikipedia.org/wiki/Yaogu) performance, which is a traditional folk dance popular in my hometown.
 
 First, I experimented with a few pop-up mechanisms for animating the drummer's arms.
 
