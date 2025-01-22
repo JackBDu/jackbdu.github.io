@@ -22,7 +22,7 @@ I speak the language of computers. I encode my stories, emotions, curiosities, a
 
 Coding as an art practice is much like painting. Code is a sequence of characters that encapsulate a creative process—conceived, revised, altered, and continually revisited. While the outcome of code is often what is seen, the code itself is like layers and layers of paints underneath a painting, easily forgotten. By sharing daily progress of my practice, I help demystify art and computation, allowing people to peek into the inner workings of my artwork.
 
-My work often deconstructs visuals into pixelated fragments, an aesthetic rooted in nostalgia for the early days of computation and the Internet. In a capitalistic society that prizes rapid technological advancement and superhuman precision, I enjoy creating scribbly and often chaotic visuals to celebrate the poetic beauty of human imperfection and computational glitches, while also leaving space for people to decode meaning through the lens of their own lived experiences.
+My work often deconstructs visuals into pixelated fragments, an aesthetic rooted in nostalgia for the early days of computing and the Internet. In a capitalistic society that prizes rapid technological advancement and superhuman precision, I enjoy creating scribbly and often chaotic visuals to celebrate the poetic beauty of human imperfection and computational glitches, while also leaving space for people to decode meaning through the lens of their own lived experiences.
 
 ## Selected Exhibitions
 
