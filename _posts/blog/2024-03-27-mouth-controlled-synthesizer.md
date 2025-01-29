@@ -9,7 +9,7 @@ published: true
 
 [ [Try Mouth Synth](https://jackbdu.com/mouth-synth/) \| [View source code on GitHub](https://github.com/jackbdu/mouth-synth) ]
 
-![](/media{{ page.url }}20240324-daily-experiment-ml5-facemesh-open-mouth-synth-with-vibrato-1080p-frame-1-edited.jpg)
+![](/media{{ page.url }}20250127-67_05444-landscape-cropped-compressed.jpg)
 
 In my previous experiments, I integrated hand pose detection in my sketch. Hand-driven interaction feels magical, but also somewhat conventional. For this new series, I wanted to try something less conventional—mouth-driven interaction.
 
